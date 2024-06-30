@@ -1,6 +1,6 @@
 # ENSAE 1A : projet de programmation
 
-Ce dépôt public contient les ressources pour les étudiants pour le projet de programmation 1A sur l'optimisation d'un réseau de livraison. Pour la description du projet lui-même, se référer au PDF sur pamplemousse. 
+Ce dépôt public contient les ressources pour les étudiants pour le projet de programmation 1A sur l'optimisation d'un réseau de livraison. Pour la description du projet lui-même, se référer au PDF sur pamplemousse ou dans le fichier sujet.pdf . 
 
 Ce dépôt contient plusieurs dossiers et fichiers : 
 - le dossier `delivery_network` contient le code principal (une base de code pour l'instant, que vous devrez compléter). C'est là qu'est la classe Graph que vous devez implémenter. C'est aussi là que vous mettrez les autres fichiers .py principaux au cours du projet. 
